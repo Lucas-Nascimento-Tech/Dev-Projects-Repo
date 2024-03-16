@@ -1,6 +1,18 @@
-This Repository is dedicated to host done and ongoing projects on DevProjects by CodeMentor.
+# DevProjects - Web scraper to get news article content
 
-Please consider the below factors while contributing:
+This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
+Find the project requirements here: [Web scraper to get news article content](https://www.codementor.io/projects/tool/web-scraper-to-get-news-article-content-atx32d46qe)
+
+## Tech/framework used
+Built with ___
+
+## Screenshots and demo
+Screenshots of your app and/or a link to your live demo
+
+## Installation
+Instructions for other developers on how to install and run your code on their local environment.
+
+## Please consider the below factors while contributing:
 - Code style: Please follow the coding style and conventions used in the existing codebase. This helps maintain consistency across the project.
 - Documentation: Ensure that your contributions are well-documented. Include comments in your code where necessary and provide a clear and concise description of your changes in the pull request.
 - Testing: Before submitting a pull request, make sure your changes have been tested thoroughly. Include relevant test cases and ensure that existing tests pass.
