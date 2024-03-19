@@ -43,3 +43,4 @@ def get_article(url):
 
 #Function testing
 get_article('https://www.infomoney.com.br/colunistas/convidados/de-faamg-para-sete-maravilhas-ou-quarteto-fantastico-afinal-as-big-techs-estao-mesmo-caras/')
+
