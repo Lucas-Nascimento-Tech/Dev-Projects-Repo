@@ -4,13 +4,10 @@ This is an open source project from [DevProjects](http://www.codementor.io/proje
 Find the project requirements here: [Web scraper to get news article content](https://www.codementor.io/projects/tool/web-scraper-to-get-news-article-content-atx32d46qe)
 
 ## Tech/framework used
-Built with ___
-
-## Screenshots and demo
-Screenshots of your app and/or a link to your live demo
-
-## Installation
-Instructions for other developers on how to install and run your code on their local environment.
+Built with:
+- Python (version: 3.11.8)
+  - Requests and BeautifulSoup for collecting and parsing
+- Git and GitHub for version control and hosting
 
 ## Please consider the below factors while contributing:
 - Code style: Please follow the coding style and conventions used in the existing codebase. This helps maintain consistency across the project.
